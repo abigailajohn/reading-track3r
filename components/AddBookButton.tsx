@@ -1,5 +1,3 @@
-import { Plus } from "lucide-react";
-
 export function AddBookButton({ onClick }: { onClick: () => void }) {
   return (
     <div className="space-y-3">
